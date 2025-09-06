@@ -1,6 +1,6 @@
 // src/services/api.js
 
-const API_URL = "http://localhost:3000/api"; // Updated to include /api prefix
+const API_URL = "https://passmanager-a1qj.onrender.com/api"; // Updated to include /api prefix
 
 // Helper function to handle API responses
 const handleResponse = async (response) => {
